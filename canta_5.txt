@@ -1,0 +1,7 @@
+9
+esya fiyat agirlik
+saat 100 2
+fotograf_makinasi 300 5
+kamera 700 7
+cep_telefonu 500 3
+anahtar 10 1

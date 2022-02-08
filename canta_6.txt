@@ -1,0 +1,8 @@
+20
+esya fiyat agirlik
+saat 175 10
+tablo 90 9
+radyo 20 4
+bilgisayar 200 20
+vazo 50 2
+kitap 10 1
